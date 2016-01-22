@@ -1,0 +1,6 @@
+E:\Tamilmani\My Sample Works\MvcBasic\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Tamilmani\My Sample Works\MvcBasic\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Tamilmani\My Sample Works\MvcBasic\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Tamilmani\My Sample Works\MvcBasic\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Tamilmani\My Sample Works\MvcBasic\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Tamilmani\My Sample Works\MvcBasic\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
